@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "1036073078396",
-    "project_id": "mobile---student-parking-app",
-    "storage_bucket": "mobile---student-parking-app.appspot.com"
+    "project_number": "1054999547704",
+    "firebase_url": "https://uelcamp-3e12f-default-rtdb.firebaseio.com",
+    "project_id": "uelcamp-3e12f",
+    "storage_bucket": "uelcamp-3e12f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1036073078396:android:a7a899fec87a27f66143f9",
+        "mobilesdk_app_id": "1:1054999547704:android:bdf4ad5316cef8d044fbcd",
         "android_client_info": {
           "package_name": "nguyenhoanganhkhoa.com.myapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1036073078396-9jtgpj1njbhfvavg8qarh29ocrqdn6bv.apps.googleusercontent.com",
+          "client_id": "1054999547704-umb5qbucpkbf0ges8itcp2htfc4qb7m5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBJrGZBKM_yBMPm4t_ZSMKk1Zp4_CC6D9A"
+          "current_key": "AIzaSyDnSU7YKH78bXcVEZbu6Cr1EFkXtxxmaOA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1036073078396-9jtgpj1njbhfvavg8qarh29ocrqdn6bv.apps.googleusercontent.com",
+              "client_id": "1054999547704-umb5qbucpkbf0ges8itcp2htfc4qb7m5.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
