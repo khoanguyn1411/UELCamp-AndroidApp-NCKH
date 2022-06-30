@@ -14,7 +14,7 @@ This app is developed to allow students of University of Economics and Law payin
 - **History:**
   + Display user history
   + View notification
-- **Canteen and Startup & Language Space service:**
+- **Canteen and Startup & Language Space services:**
   + Order product
   + Evaluate product
   + View product detail
